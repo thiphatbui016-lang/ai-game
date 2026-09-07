@@ -29,6 +29,7 @@ python3 quicksort.py
 | `js/quicksort.js` | 快速排序算法（JavaScript） |
 | `js/app.js` | 页面交互：输入、演示、步骤展示 |
 | `quicksort.py` | 快速排序算法（Python） |
+| `docs/对话总结-2026-07-11至09-07.md` | 2026-07-11 至今：Cursor 24 条总结 + Codex 35 条总结 |
 
 ## 算法思路（30 秒看懂）
 
