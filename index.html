@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>快速排序演示</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- 页面入口：输入数字、播放快速排序过程、查看每一步划分 -->
+  <main class="page">
+    <header class="hero">
+      <svg class="hero__mark" viewBox="0 0 64 64" aria-hidden="true">
+        <rect x="4" y="4" width="56" height="56" rx="16" fill="#14202b"></rect>
+        <rect x="14" y="34" width="8" height="16" rx="3" fill="#38bdf8"></rect>
+        <rect x="28" y="22" width="8" height="28" rx="3" fill="#5eead4"></rect>
+        <rect x="42" y="14" width="8" height="36" rx="3" fill="#fbbf24"></rect>
+      </svg>
+      <div>
+        <h1 class="hero__title">快速排序</h1>
+        <p class="hero__subtitle">选一个基准，小的放左边、大的放右边，再对两边重复这件事，数组就会排好。</p>
+      </div>
+    </header>
+
+    <section class="panel">
+      <label class="field" for="number-input">
+        <span class="field__label">输入一串数字，用逗号或空格隔开</span>
+        <input id="number-input" class="field__input" type="text" value="8, 3, 9, 1, 5, 2">
+      </label>
+
+      <div class="toolbar">
+        <button class="button" type="button" data-action="sort">开始排序</button>
+        <button class="button button--ghost" type="button" data-action="play">自动播放</button>
+        <button class="button button--ghost" type="button" data-action="pause">暂停</button>
+        <button class="button button--ghost" type="button" data-action="next">下一步</button>
+        <button class="button button--ghost" type="button" data-action="reset">恢复示例</button>
+      </div>
+
+      <p id="result-text" class="result">排序结果会显示在这里</p>
+      <p id="step-text" class="step">还没有开始排序</p>
+
+      <div id="bars" class="bars" aria-label="排序柱状图"></div>
+
+      <div class="legend">
+        <span><i class="legend__dot legend__dot--pivot"></i>基准</span>
+        <span><i class="legend__dot legend__dot--compare"></i>正在比较</span>
+        <span><i class="legend__dot legend__dot--range"></i>当前区间</span>
+      </div>
+
+      <ol id="step-log" class="log"></ol>
+    </section>
+  </main>
+
+  <script src="js/quicksort.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
