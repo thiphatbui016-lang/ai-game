@@ -1,0 +1,61 @@
+cursor-记录-2026-08-02至09-30/Cursor使用记录.md
+  s_f9758f7272cb2d::t_2569c4cac2a0e9 68-76,79-80
+README.md
+  s_f9758f7272cb2d::t_b9d94683638dbc 33
+cursor-记录-2026-08-02至09-30/2026-07-27/c9cd1b1b-433e-4dea-80c8-c3d87f50e7a1.md
+  s_f9758f7272cb2d::t_d1de6bd95ba5a5 1-681
+cursor-记录-2026-08-02至09-30/2026-08-03/fa2a5c7e-e8fd-4269-97cc-43d60f2db5f2.md
+  s_f9758f7272cb2d::t_58a8b1f2ce34ce 1-4331
+cursor-记录-2026-08-02至09-30/2026-08-05/6157d2a8-c809-461a-9c5c-2aa470bf0479.md
+  s_f9758f7272cb2d::t_7449b8a82fa9a9 1-335
+cursor-记录-2026-08-02至09-30/2026-08-07/b77dfb42-eb4e-4528-aabb-cbcb5fb7bbc6.md
+  s_f9758f7272cb2d::t_1cb2f56b8e4c08 1-18
+cursor-记录-2026-08-02至09-30/2026-08-11/164d1504-fcfd-45b1-aeeb-3da4e36157ba.md
+  s_f9758f7272cb2d::t_4bdad74e8463f3 1-231
+cursor-记录-2026-08-02至09-30/2026-08-11/3fa7be90-11fe-4791-be81-bb1fffe16d12.md
+  s_f9758f7272cb2d::t_b5d24604aec051 1-15
+cursor-记录-2026-08-02至09-30/2026-08-11/7e1833a8-ebaf-469d-a6e5-8af14ed878ed.md
+  s_f9758f7272cb2d::t_d9bae4a142e98d 1-90
+cursor-记录-2026-08-02至09-30/2026-08-13/c7272304-a6a9-4823-9c88-88557e0023cd.md
+  s_f9758f7272cb2d::t_4c884eb8007d6b 1-730
+cursor-记录-2026-08-02至09-30/2026-08-18/567c665d-0c18-47d8-ac5f-09b5dc559f6d.md
+  s_f9758f7272cb2d::t_f68501593ee7ec 1-58
+cursor-记录-2026-08-02至09-30/2026-08-18/d5001802-aba6-4768-95a6-046a921beba2.md
+  s_f9758f7272cb2d::t_eed7d90cb6e69e 1-135
+cursor-记录-2026-08-02至09-30/2026-08-19/5f47292e-bac3-4c5f-94db-2807aaccfa71.md
+  s_f9758f7272cb2d::t_a67e4b686e3e00 1-23
+cursor-记录-2026-08-02至09-30/2026-08-24/84c3e896-a689-48cb-9128-9430257ea709.md
+  s_f9758f7272cb2d::t_2dd6306a5c5690 1-65
+cursor-记录-2026-08-02至09-30/2026-08-25/a188693b-6fdd-4852-b90f-f3c2e61b229a.md
+  s_f9758f7272cb2d::t_beac18394c9f5f 1-812
+cursor-记录-2026-08-02至09-30/2026-08-25/bb4d8adb-e49e-4e3e-831e-93aefc32d019.md
+  s_f9758f7272cb2d::t_2397ac385b8684 1-180
+cursor-记录-2026-08-02至09-30/2026-08-27/4b3d2d62-05b7-47cf-8aae-a2d30f0f3fcb.md
+  s_f9758f7272cb2d::t_08fe5ad29f767c 1-67
+cursor-记录-2026-08-02至09-30/2026-08-27/9db9d2e3-416c-4294-9927-1cea20ec7a8c.md
+  s_f9758f7272cb2d::t_0b9650ccb00d51 1-308
+cursor-记录-2026-08-02至09-30/2026-08-30/e262e72c-af4c-4665-9c76-e30d92a9a22b.md
+  s_f9758f7272cb2d::t_a609fe632455cb 1-80
+cursor-记录-2026-08-02至09-30/2026-09-07/03ee5d97-7fc0-4437-b8f7-12c91e044e72.md
+  s_f9758f7272cb2d::t_126fa187ea7b4f 1-233
+cursor-记录-2026-08-02至09-30/2026-09-07/ca90c93e-3973-4619-a9b4-033fd7144597.md
+  s_f9758f7272cb2d::t_f78614f51071c6 1-27
+cursor-记录-2026-08-02至09-30/manifest.csv
+  s_f9758f7272cb2d::t_d29624c3cfc6f7 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.6",
+  "base_commit_sha": "5c481d6391f1791a0be0d44eb49a55b6d7b3a2ba",
+  "prompts": {},
+  "sessions": {
+    "s_f9758f7272cb2d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "cb405466-560c-4aaf-a38b-f8da6f03d1bd",
+        "model": "grok-4.7"
+      },
+      "human_author": "yuanli3 <yuanli3@kingsoft.com>"
+    }
+  }
+}
